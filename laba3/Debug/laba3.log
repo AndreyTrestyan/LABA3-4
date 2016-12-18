@@ -1,0 +1,9 @@
+﻿  main.cpp
+e:\laba3\laba3\continent.h(6): warning C4584: Continent: базовый класс "Planet" уже является базовым классом для "Land"
+  e:\laba3\laba3\planet.h(3): note:  см. объявление "Planet"
+  e:\laba3\laba3\land.h(4): note:  см. объявление "Land"
+e:\laba3\laba3\state.h(5): warning C4584: State: базовый класс "Planet" уже является базовым классом для "Continent"
+  e:\laba3\laba3\planet.h(3): note:  см. объявление "Planet"
+  e:\laba3\laba3\continent.h(5): note:  см. объявление "Continent"
+  laba3.vcxproj -> E:\laba3\Debug\laba3.exe
+  laba3.vcxproj -> E:\laba3\Debug\laba3.pdb (Partial PDB)
